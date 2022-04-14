@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PdfReader Application</string>
+    <string name="pdf_reader">Pdf Reader</string>
+    <string name="recent_reading">Recent Reading</string>
 </resources>
